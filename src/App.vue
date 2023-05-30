@@ -1,5 +1,6 @@
 <template>
   <div>i am root</div>
+  <span>123</span>
 </template>
 
 <script setup lang="ts">
