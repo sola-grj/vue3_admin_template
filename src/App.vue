@@ -6,6 +6,7 @@
 <script setup lang="ts">
 const str = 'i am groot'
 const aa = { a: 1, b: 3 }
+const bb="1111";
 </script>
 
 <style scoped>
